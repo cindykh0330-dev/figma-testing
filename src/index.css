@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #1276d3;
+  --radius-custom: 10px;
+  --shadow-custom: 0px 1px 5px 0px #3c3c432e;
+  --leading-custom: 100%;
+  --color-muted: #585858;
+  --tracking-custom: -0.02em;
+}
